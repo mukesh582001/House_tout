@@ -37,43 +37,9 @@ real-time. Built using Three.js, React, Node.js, MongoDB, and Tailwind CSS.
 
 ## 📁 Project Folder Structure
 architecture_walkthrough/
-│
-├── backend/
-│ ├── models/
-│ ├── node_modules/
-│ ├── routes/
-│ ├── uploads/
-│ ├── .env
-│ ├── package-lock.json
-│ ├── package.json
-│ └── server.js
-│
-├── frontend/
-│ ├── node_modules/
-│ ├── public/
-│ └── src/
-│ ├── components/
-│ │ ├── CameraRig.jsx
-│ │ ├── ExteriorScene.jsx
-│ │ ├── InteriorScene.jsx
-│ │ ├── KeyboardControls.jsx
-│ │ ├── ModelCustomizer.jsx
-│ │ └── AdminPanel.jsx
-│ ├── App.css
-│ ├── App.js
-│ ├── App.test.js
-│ ├── index.css
-│ ├── index.js
-│ ├── logo.svg
-│ ├── reportWebVitals.js
-│ └── setupTests.js
-│
-├── screenshots/ 📸 (Add your screenshots here)
-└── .gitattributes
+│![image](https://github.com/user-attachments/assets/c64c92cc-fe74-4054-97e0-f22969aef88a)
 
-yaml
-Copy
-Edit
+
 
 ---
 
@@ -120,17 +86,11 @@ Tailwind CSS – Styling
 📸 Screenshots
 Add your screenshots inside a screenshots folder and link them like below:
 
-md
-Copy
-Edit
 ![Home View](screenshots/home-view.png)
 ![Color Picker](screenshots/color-picker.png)
 ![Dropdown](screenshots/object-selector.png)
 🪪 License
 This project is open-source and available under the MIT License.
 
-yaml
-Copy
-Edit
 
 
