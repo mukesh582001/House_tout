@@ -32,8 +32,6 @@ real-time. Built using Three.js, React, Node.js, MongoDB, and Tailwind CSS.
 ![image](https://github.com/user-attachments/assets/2df352ad-f9ce-4ce6-8ca3-eb8e45e4253c)
 
 
-### ⬇️ Dropdown for Object Type Selection
-![Object Selector](screenshots/object-selector.png)
 
 -------------------------------------------------------------
 
