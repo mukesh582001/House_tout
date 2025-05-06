@@ -25,10 +25,12 @@ real-time. Built using Three.js, React, Node.js, MongoDB, and Tailwind CSS.
 ## 🖼️ Screenshots
 
 ### 🏠 Home View – Initial House Layout
-![Home View](screenshots/home-view.png)
+![image](https://github.com/user-attachments/assets/2d50dba6-02a5-46b1-a55a-e0d8f84ca54b)
+
 
 ### 🎨 Color Picker Panel
-![Color Picker](screenshots/color-picker.png)
+![image](https://github.com/user-attachments/assets/2df352ad-f9ce-4ce6-8ca3-eb8e45e4253c)
+
 
 ### ⬇️ Dropdown for Object Type Selection
 ![Object Selector](screenshots/object-selector.png)
