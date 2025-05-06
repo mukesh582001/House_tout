@@ -83,12 +83,6 @@ MongoDB – Database
 
 Tailwind CSS – Styling
 
-📸 Screenshots
-Add your screenshots inside a screenshots folder and link them like below:
-
-![Home View](screenshots/home-view.png)
-![Color Picker](screenshots/color-picker.png)
-![Dropdown](screenshots/object-selector.png)
 🪪 License
 This project is open-source and available under the MIT License.
 
